@@ -37,8 +37,8 @@ public class Livre {
 	 }
 	public float getPrix() {
 		//prix = 510;
-			return prix;
-			return prix;
+		return prix;
+		//return prix;
 	}
 	
 	// Modificateur
