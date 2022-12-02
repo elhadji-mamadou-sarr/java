@@ -57,7 +57,7 @@ public class Livre {
 			this.prix = prix;
 	}
 	
-	/*public static void main(String[] args){
+	  public static void main(String[] args){
 		Livre l1 = new Livre("Sarr", "Les Dev");
 		Livre l2 = new Livre("Diop", "base");
 		System.out.println("Auteur1: "+l1.getAuteur()+ "  Titre: "+l1.getTitre()); 
@@ -74,7 +74,7 @@ public class Livre {
 
 		Livre l3 = new Livre (300);
 		System.out.println(l3.getNbPages());
-	   }*/
+	   } 
 
 	//methode 
 	    public void afficheToi() {
